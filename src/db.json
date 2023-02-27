@@ -1,0 +1,59 @@
+{
+  "enquiry": [
+    {
+      "firstName": "asas",
+      "lastName": "asas",
+      "email": "sdfsf",
+      "mobile": 432435,
+      "weight": 224,
+      "height": 23,
+      "bmi": 0.42344045368620037,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-17T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "behzad",
+      "lastName": "ashrafi",
+      "email": "behzad@gmail.com",
+      "mobile": 8884734,
+      "weight": 86,
+      "height": 1.86,
+      "bmi": 24.858365128916635,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-23T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "sara",
+      "lastName": "sar",
+      "email": "rrww@gmai.com",
+      "mobile": 2434,
+      "weight": 65,
+      "height": 1.6,
+      "bmi": 25.781249999999996,
+      "bmiResult": "Overweight",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 4
+    }
+  ]
+}
